@@ -11,6 +11,7 @@ package firstprogram.one.two;
 public class Student {
     private int id;
     private String name;
+    int numofCourses;
 
     public Student(int id, String name) {
         this.id = id;
